@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPSMapApp</string>
+    <string name="btn_take_photo">Capturar Foto</string>
+    <string name="btn_my_location">Mi Ubicación</string>
+    <string name="btn_clear_markers">Limpiar Marcadores</string>
+    <string name="img_captured_desc">Imagen capturada</string>
+    <string name="map_instruction">Toca el mapa para añadir un marcador</string>
+    <string name="marker_title">Marcador Usuario</string>
+    <string name="my_location_title">Mi Ubicación Actual</string>
+    <string name="location_permission_needed">Se requiere permiso de ubicación para mostrar tu posición actual.</string>
+    <string name="camera_permission_needed">Se requiere permiso de cámara para capturar fotos.</string>
+    <string name="close_preview">Cerrar vista previa</string>
+</resources>
