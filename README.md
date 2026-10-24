@@ -24,9 +24,11 @@ Aplicación Android desarrollada en **Java** que integra **Google Maps API**, **
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/SimpleGPSMapApp.git
+git clone https://github.com/franciscoelking10-debug/SimpleGPSMapApp.git
 cd SimpleGPSMapApp
 ```
+
+> **Target SDK**: Android 11 (API 30) | **Lenguaje**: Java
 
 ### 2. Configurar Google Maps API Key
 Para que el mapa se renderice correctamente en la aplicación:
